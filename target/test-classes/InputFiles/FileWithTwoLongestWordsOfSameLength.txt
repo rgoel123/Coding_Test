@@ -1,0 +1,6 @@
+a
+ab
+abc
+abc
+abcde
+fghij
